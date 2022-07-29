@@ -1,1 +1,2 @@
-console.log('Hello, world!')
+import { sqrt } from 'mathjs'
+sqrt(4)

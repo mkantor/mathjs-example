@@ -5,6 +5,9 @@
   "scripts": {
     "start": "rm -rf dist && tsc --build && ./index.js"
   },
+  "dependencies": {
+    "mathjs": "^11.0.1"
+  },
   "devDependencies": {
     "typescript": "latest"
   }
